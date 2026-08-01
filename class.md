@@ -7,3 +7,4 @@ Comandos iniciais:
 - git commit -m "mensagem de commit"
 - git push
 - git pull
+Wolgrand é mt acelerado 
